@@ -1,6 +1,10 @@
 # e-zundapp
 Electric moped stuff
 
+## The moped
+
+Mostly Zundapp parts, but probably a Mustang frame.
+
 ## Parts
 
 * Motor: [Vevor 1800W](https://eur.vevor.com/brushless-dc-motor-c_11227/vevor-1800w-electric-brushless-dc-motor-48v-4500rpm-motor-for-e-bike-dirt-bike-p_010506884872)
