@@ -12,3 +12,6 @@ Mostly Zundapp parts, but probably a Mustang frame.
 * Controller: [Spintend Ubox 100V 100A](https://spintend.com/collections/esc-based-on-vesc/products/single-ubox-100v-100a-motor-controller-based-on-vesc)
 * Adapter board: [Spintend Adapter V3](https://github.com/JohnSpintend/Spintend-manuals/wiki/Adapter-V3-manual)
 * Current sprocket: Probably similar to [Mustang/MCB](https://mopeddelar.se/sv/products/bakdrev-42t-mustang-mcb-hercules)
+
+## 3D Modeling
+* [onshape model](https://cad.onshape.com/documents/3593b0cc97d98cb427c31ef7/w/a1e1b7fa8532312e6433ce5a/e/34df62003381d55de4daf521?renderMode=0&uiState=69162cb1db0e5ee5867435a5)
