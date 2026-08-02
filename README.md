@@ -6,7 +6,17 @@ origin.
 
 The converted moped (without the speedometer) looks like this:
 
-<img src="images/converted_moped.jpg" alt="The converted e-zundapp" width="800" />
+<p align="center">
+  <a href="images/converted_moped.jpg"><img src="images/converted_moped.jpg" alt="how it looks mounted on the moped" width="31%"></a>
+</p>
+
+Apart from the moped itself, I've also created a speedometer for it, which can display a
+map with the current position, trip data and navigation instructions. The source code
+for this, and more information, can be found at [the radbuzz GitHub repository](https://github.com/SimonKagstrom/radbuzz).
+
+<p align="center">
+  <a href="images/gps_on_the_moped.jpg"><img src="images/gps_on_the_moped.jpg" alt="how it looks mounted on the moped" width="31%"></a>
+</p>
 
 ## Parts
 
@@ -14,7 +24,7 @@ The converted moped (without the speedometer) looks like this:
 * Battery: [EM3ev 52V (14S4P) 21700 King Shark Ebike Battery](https://em3ev.com/shop/em3ev-52v-14s4p-king-shark-ebike-battery/)
 * Controller: [Spintend Ubox 100V 100A](https://spintend.com/collections/esc-based-on-vesc/products/single-ubox-100v-100a-motor-controller-based-on-vesc)
 * Adapter board: [Spintend Adapter V3](https://github.com/JohnSpintend/Spintend-manuals/wiki/Adapter-V3-manual)
-* Rear sprocket: 42 tooh, probably similar to [Mustang/MCB](https://mopeddelar.se/sv/products/bakdrev-42t-mustang-mcb-hercules)
+* Rear sprocket: 42 tooth, probably similar to [Mustang/MCB](https://mopeddelar.se/sv/products/bakdrev-42t-mustang-mcb-hercules)
 * Front sprocket: 410, 8 tooth
 
 ## 3D Modeling
