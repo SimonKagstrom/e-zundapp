@@ -8,6 +8,12 @@ The converted moped (without the speedometer) looks like this:
 
 <p align="center">
   <a href="images/converted_moped.jpg"><img src="images/converted_moped.jpg" alt="how it looks mounted on the moped" width="31%"></a>
+  <a href="images/right_side.jpg"><img src="images/right_side.jpg" alt="right side view" width="31%"></a>
+</p>
+
+<p align="center">
+  <a href="images/right_back.jpg"><img src="images/right_back.jpg" alt="right back view" width="31%"></a>
+  <a href="images/left_back.jpg"><img src="images/left_back.jpg" alt="left back view" width="31%"></a>
 </p>
 
 Apart from the moped itself, I've also created a speedometer for it, which can display a
@@ -15,7 +21,8 @@ map with the current position, trip data and navigation instructions. The source
 for this, and more information, can be found at [the radbuzz GitHub repository](https://github.com/SimonKagstrom/radbuzz).
 
 <p align="center">
-  <a href="images/gps_on_the_moped.jpg"><img src="images/gps_on_the_moped.jpg" alt="how it looks mounted on the moped" width="31%"></a>
+  <a href="images/gps_on_the_moped.jpg"><img src="images/gps_on_the_moped.jpg" alt="GPS on the moped" width="31%"></a>
+  <a href="images/with_speedometer.jpg"><img src="images/with_speedometer.jpg" alt="with speedometer" width="31%"></a>
 </p>
 
 ## Parts
