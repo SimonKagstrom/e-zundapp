@@ -4,9 +4,9 @@ This is an electric conversion project for an old Moped, using a VESC controller
 is likely from the early 1980s. The seat, fork and handlebars are newer and of unknown
 origin.
 
-Since the moped is old, it's capped to 30km/h per the regulations of the time. The cap iso
-done via an RPM limit for the VESC controller. The converted moped (without the speedometer) looks
-like this:
+Since the moped is old, it's capped to 30km/h as per the regulations of the time. The cap is
+done via an RPM limit for the VESC controller, and otherwise I would guess around 45 would be the
+top speed. The converted moped looks like this:
 
 <p align="center">
   <a href="images/converted_moped.jpg"><img src="images/converted_moped.jpg" alt="how it looks mounted on the moped" width="31%"></a>
@@ -25,17 +25,31 @@ The basic tasks I've done are:
 * Adaptors for the VESC controller and adaptor board
 * Converted lightning to 12V LED light bulbs
 * Added turn indicators and a horn :-)
+* Ordered steel parts for the motor mounts from [Ståldirekt](https://staldirect.se/)
 
-Apart from the moped itself, I've also created a speedometer for it, which can display a
-map with the current position, trip data and navigation instructions. The source code
-for this, and more information, can be found at [the radbuzz GitHub repository](https://github.com/SimonKagstrom/radbuzz).
+Apart from the moped itself, I've also created a speedometer/infotaintment for it. The speedometer
+can display a map with the current position, trip data and navigation instructions as well as the speed.
+It's based on an esp32p4+display from Waveshare, and the source code and more information, can be found
+at [the radbuzz GitHub repository](https://github.com/SimonKagstrom/radbuzz).
 
 <p align="center">
   <a href="images/gps_on_the_moped.jpg"><img src="images/gps_on_the_moped.jpg" alt="GPS on the moped" width="31%"></a>
   <a href="images/with_speedometer.jpg"><img src="images/with_speedometer.jpg" alt="with speedometer" width="31%"></a>
 </p>
 
-The project has taken about a year.
+All in all, the project has taken about a year. As these things are, it's never really finished, but
+it's now in a fully functioning state.
+
+## Riding it
+So how does it ride? The seating position isn't very comfortable, probably mostly due to the clip-on style handlebars.
+The moped is also slightly noisy, although nowhere near what it would be with the original 2-stroke engine.
+
+More positively, it's easy to ride and powerful enough also for uphills. I also really like the styling, which was mostly
+done by the previous owner. The speedometer works very well, and I'd say it's useful and fulfil it's purpose. A worry
+I had before testing was daylight visibility of the display, but it works well even in bright sunlight.
+
+As for the range, I haven't tested it (yet), but consumption indicates that it should be 50-60km - more than I initially
+expected.
 
 ## Parts
 
@@ -46,19 +60,8 @@ The project has taken about a year.
 * Rear sprocket: 42 tooth, probably similar to [Mustang/MCB](https://mopeddelar.se/sv/products/bakdrev-42t-mustang-mcb-hercules)
 * Front sprocket: 410, 8 tooth
 
-## 3D Modeling
+## 3D Modeling / CAD
 3D printing has been used for functional parts and prototyping, and has been designed in onshape
 (with big help David Ålind!):
 
 * [onshape model](https://cad.onshape.com/documents/3593b0cc97d98cb427c31ef7/w/a1e1b7fa8532312e6433ce5a/e/34df62003381d55de4daf521?renderMode=0&uiState=69162cb1db0e5ee5867435a5)
-
-## Riding it
-So how does it ride? The position isn't very comfortable, I'd say, mainly due to the clip-on style handlebars.
-It's also slightly noisy, although nowhere near a 2-stroke engine.
-
-However, it's powerful enough also for going uphill, and I really like the styling (mostly done by the previous owner).
-The speedometer also works very well, and I'd say it's useful and fulfil it's purpose. The display is also visible also
-in sunlight, which was something I worried about.
-
-As for the range, I haven't tested it (yet?), but consumption indicates that it should be 50-60km - more than I initially
-expected.
