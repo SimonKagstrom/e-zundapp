@@ -20,11 +20,12 @@ top speed. The converted moped looks like this:
 
 The basic tasks I've done are:
 
-* Designed motor mounts (with help from David Ålind) for the Vevor motor that attach to the frame
-* Designed a battery holder (also David Ålind) for a e-bike style battery
+* Designed motor mounts for the Vevor motor, for attaching to the frame (with help from David Ålind)
+* Designed a battery holder for a e-bike style battery (also David Ålind)
 * Adaptors for the VESC controller and adaptor board
 * Converted lightning to 12V LED light bulbs
 * Added turn indicators and a horn :-)
+* Designed various other small mounting brackets etc, 3D printed
 * Ordered steel parts for the motor mounts from [Ståldirekt](https://staldirect.se/)
 
 Apart from the moped itself, I've also created a speedometer/infotaintment for it. The speedometer
