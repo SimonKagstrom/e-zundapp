@@ -57,6 +57,7 @@ expected.
 * Motor: [Vevor 1800W](https://eur.vevor.com/brushless-dc-motor-c_11227/vevor-1800w-electric-brushless-dc-motor-48v-4500rpm-motor-for-e-bike-dirt-bike-p_010506884872)
 * Battery: [EM3ev 52V (14S4P) 21700 King Shark Ebike Battery](https://em3ev.com/shop/em3ev-52v-14s4p-king-shark-ebike-battery/)
 * Controller: [Spintend Ubox 100V 100A](https://spintend.com/collections/esc-based-on-vesc/products/single-ubox-100v-100a-motor-controller-based-on-vesc)
+  * The VESC configuration can be found in [the vesc_configuration/](vesc_configuration/) directory.
 * Adapter board: [Spintend Adapter V3](https://github.com/JohnSpintend/Spintend-manuals/wiki/Adapter-V3-manual)
 * Rear sprocket: 42 tooth, probably similar to [Mustang/MCB](https://mopeddelar.se/sv/products/bakdrev-42t-mustang-mcb-hercules)
 * Front sprocket: 410, 8 tooth
