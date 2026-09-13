@@ -12,7 +12,7 @@
     <l_in_current_map_filter>0.005</l_in_current_map_filter>
     <l_abs_current_max>160</l_abs_current_max>
     <l_min_erpm>-100000</l_min_erpm>
-    <l_max_erpm>5150</l_max_erpm>
+    <l_max_erpm>4968.21</l_max_erpm>
     <l_erpm_start>0.8</l_erpm_start>
     <l_max_erpm_fbrake>300</l_max_erpm_fbrake>
     <l_max_erpm_fbrake_cc>1500</l_max_erpm_fbrake_cc>
@@ -51,9 +51,9 @@
     <hall_table__6>4</hall_table__6>
     <hall_table__7>-1</hall_table__7>
     <hall_sl_erpm>2000</hall_sl_erpm>
-    <foc_current_kp>0.096023</foc_current_kp>
-    <foc_current_ki>13.8904</foc_current_ki>
-    <foc_f_zv>30000</foc_f_zv>
+    <foc_current_kp>0.096</foc_current_kp>
+    <foc_current_ki>13.89</foc_current_ki>
+    <foc_f_zv>20000</foc_f_zv>
     <foc_dt_us>0.12</foc_dt_us>
     <foc_encoder_inverted>0</foc_encoder_inverted>
     <foc_encoder_offset>180</foc_encoder_offset>
@@ -61,10 +61,10 @@
     <foc_sensor_mode>2</foc_sensor_mode>
     <foc_pll_kp>2000</foc_pll_kp>
     <foc_pll_ki>30000</foc_pll_ki>
-    <foc_motor_l>9.6023e-05</foc_motor_l>
-    <foc_motor_ld_lq_diff>1.23402e-05</foc_motor_ld_lq_diff>
+    <foc_motor_l>9.602e-05</foc_motor_l>
+    <foc_motor_ld_lq_diff>1.234e-05</foc_motor_ld_lq_diff>
     <foc_motor_r>0.0211</foc_motor_r>
-    <foc_motor_flux_linkage>0.0177655</foc_motor_flux_linkage>
+    <foc_motor_flux_linkage>0.017765</foc_motor_flux_linkage>
     <foc_observer_gain>4e+06</foc_observer_gain>
     <foc_observer_gain_slow>0.05</foc_observer_gain_slow>
     <foc_observer_offset>-1</foc_observer_offset>
@@ -113,12 +113,12 @@
     <foc_hfi_obs_ovr_sec>0.001</foc_hfi_obs_ovr_sec>
     <foc_hfi_samples>1</foc_hfi_samples>
     <foc_offsets_cal_on_boot>1</foc_offsets_cal_on_boot>
-    <foc_offsets_current__0>2046.86</foc_offsets_current__0>
-    <foc_offsets_current__1>2047.43</foc_offsets_current__1>
-    <foc_offsets_current__2>2053.03</foc_offsets_current__2>
-    <foc_offsets_voltage__0>-0.003</foc_offsets_voltage__0>
-    <foc_offsets_voltage__1>0.0023</foc_offsets_voltage__1>
-    <foc_offsets_voltage__2>0.0007</foc_offsets_voltage__2>
+    <foc_offsets_current__0>2046.82</foc_offsets_current__0>
+    <foc_offsets_current__1>2047.17</foc_offsets_current__1>
+    <foc_offsets_current__2>2052.83</foc_offsets_current__2>
+    <foc_offsets_voltage__0>-0.0033</foc_offsets_voltage__0>
+    <foc_offsets_voltage__1>0.0026</foc_offsets_voltage__1>
+    <foc_offsets_voltage__2>0.0006</foc_offsets_voltage__2>
     <foc_offsets_voltage_undriven__0>0</foc_offsets_voltage_undriven__0>
     <foc_offsets_voltage_undriven__1>0</foc_offsets_voltage_undriven__1>
     <foc_offsets_voltage_undriven__2>0</foc_offsets_voltage_undriven__2>
